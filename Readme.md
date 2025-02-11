@@ -1,5 +1,5 @@
 # ニュース分析App
-
+![alt text](Arc.png)
 このプロジェクトは、最新ニュースの取得、記事の要約生成、およびニュースに基づいた雑談生成を行うWebアプリケーション.
 バックエンドはFastAPIを利用してAPIエンドポイント（[`backend/app.py`](backend/app.py)）を実装し、フロントエンドはStreamlitを用いてユーザーインターフェース（[`frontend/app.py`](frontend/app.py)）を提供する.
 
